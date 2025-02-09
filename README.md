@@ -5,3 +5,7 @@ Swagger UI
 Entity Class
 DbContext
 Connection String
+Migrations
+Database Seed Data
+APIController
+LINQ Queries
