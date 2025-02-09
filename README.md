@@ -4,3 +4,4 @@ NET API Projesi
 Swagger UI
 Entity Class
 DbContext
+Connection String
