@@ -3190,11 +3190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onury\\OneDrive\\Masaüstü\\C#\\e-commerce\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\Onury\\OneDrive\\Masaüstü\\e-commerce\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Onury\\OneDrive\\Masaüstü\\C#\\e-commerce\\API\\API.csproj",
+      "projectPath": "c:\\Users\\Onury\\OneDrive\\Masaüstü\\e-commerce\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Onury\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onury\\OneDrive\\Masaüstü\\C#\\e-commerce\\API\\obj\\",
+      "outputPath": "c:\\Users\\Onury\\OneDrive\\Masaüstü\\e-commerce\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
