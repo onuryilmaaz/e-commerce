@@ -46,7 +46,8 @@ namespace API.Controllers
             cart.DeleteItem(productId, quantity);
             var result = await _context.SaveChangesAsync() > 0;
 
-            if (result) return Ok();
+            if (result)
+                return CreatedAtAction(nameof(GetCart), CartToDto(cart));
 
             return BadRequest(new ProblemDetails { Title = "Problem removing item from the cart" });
         }
