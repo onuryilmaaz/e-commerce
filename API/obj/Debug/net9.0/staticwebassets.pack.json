@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/onur/Documents/Project/e-commerce-main/API/wwwroot/images/1.jpg",
+      "PackagePath": "staticwebassets/images/1.jpg"
+    },
+    {
+      "Id": "/Users/onur/Documents/Project/e-commerce-main/API/wwwroot/images/2.jpg",
+      "PackagePath": "staticwebassets/images/2.jpg"
+    },
+    {
+      "Id": "/Users/onur/Documents/Project/e-commerce-main/API/wwwroot/images/3.jpg",
+      "PackagePath": "staticwebassets/images/3.jpg"
+    },
+    {
+      "Id": "/Users/onur/Documents/Project/e-commerce-main/API/wwwroot/images/4.jpg",
+      "PackagePath": "staticwebassets/images/4.jpg"
+    },
+    {
+      "Id": "/Users/onur/Documents/Project/e-commerce-main/API/wwwroot/images/5.jpg",
+      "PackagePath": "staticwebassets/images/5.jpg"
+    },
+    {
+      "Id": "/Users/onur/Documents/Project/e-commerce-main/API/wwwroot/images/6.jpg",
+      "PackagePath": "staticwebassets/images/6.jpg"
+    },
+    {
+      "Id": "/Users/onur/Documents/Project/e-commerce-main/API/wwwroot/images/7.jpg",
+      "PackagePath": "staticwebassets/images/7.jpg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
