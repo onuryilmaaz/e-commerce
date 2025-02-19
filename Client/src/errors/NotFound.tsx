@@ -13,6 +13,7 @@ export default function NotFound() {
         component={NavLink}
         to="/catalog"
         sx={{ mt: 3 }}
+        color="error"
       >
         Continue Shopping
       </Button>

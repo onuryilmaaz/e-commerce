@@ -36,6 +36,7 @@ export default function ErrorPage() {
       <Button
         sx={{ mr: 3 }}
         variant="contained"
+        color="error"
         onClick={() =>
           requests.Errors.get400Error().catch((error) => console.log(error))
         }
@@ -45,6 +46,7 @@ export default function ErrorPage() {
       <Button
         sx={{ mr: 3 }}
         variant="contained"
+        color="error"
         onClick={() =>
           requests.Errors.get401Error().catch((error) => console.log(error))
         }
@@ -54,6 +56,7 @@ export default function ErrorPage() {
       <Button
         sx={{ mr: 3 }}
         variant="contained"
+        color="error"
         onClick={() =>
           requests.Errors.get404Error().catch((error) => console.log(error))
         }
@@ -63,13 +66,19 @@ export default function ErrorPage() {
       <Button
         sx={{ mr: 3 }}
         variant="contained"
+        color="error"
         onClick={() =>
           requests.Errors.get500Error().catch((error) => console.log(error))
         }
       >
         500 Error
       </Button>
-      <Button sx={{ mr: 3 }} variant="contained" onClick={getValidationError}>
+      <Button
+        sx={{ mr: 3 }}
+        variant="contained"
+        color="error"
+        onClick={getValidationError}
+      >
         Validation Error
       </Button>
     </Container>
