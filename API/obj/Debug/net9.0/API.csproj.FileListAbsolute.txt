@@ -619,3 +619,5 @@ C:/Users/Onury/OneDrive/Masaüstü/e-commerce/API/bin/Debug/net9.0/Scalar.AspNet
 /Users/onur/Documents/Project/e-commerce/API/obj/Debug/net9.0/API.pdb
 /Users/onur/Documents/Project/e-commerce/API/obj/Debug/net9.0/API.genruntimeconfig.cache
 /Users/onur/Documents/Project/e-commerce/API/obj/Debug/net9.0/ref/API.dll
+/Users/onur/Documents/Project/e-commerce/API/bin/Debug/net9.0/Iyzipay.dll
+/Users/onur/Documents/Project/e-commerce/API/bin/Debug/net9.0/Newtonsoft.Json.dll

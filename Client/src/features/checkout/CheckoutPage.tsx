@@ -20,6 +20,7 @@ import { FieldValues, FormProvider, useForm } from "react-hook-form";
 import requests from "../../api/requests";
 import { useAppDispatch } from "../../store/store";
 import { clearCart } from "../cart/cartSlice";
+import { Link, NavLink } from "react-router";
 
 const steps = ["Teslimat Bilgileri", "Ödeme", "Sipariş Özeti"];
 function getStepContent(step: number) {
@@ -101,7 +102,9 @@ export default function CheckoutPage() {
                       alignSelf: "start",
                       width: { xs: "100%", sm: "auto" },
                     }}
+                    component={Link}
                     variant="contained"
+                    to="/orders"
                   >
                     Siparişleri Listele
                   </Button>
