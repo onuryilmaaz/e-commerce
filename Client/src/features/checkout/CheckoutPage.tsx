@@ -20,7 +20,7 @@ import { FieldValues, FormProvider, useForm } from "react-hook-form";
 import requests from "../../api/requests";
 import { useAppDispatch } from "../../store/store";
 import { clearCart } from "../cart/cartSlice";
-import { Link, NavLink } from "react-router";
+import { Link } from "react-router";
 
 const steps = ["Teslimat Bilgileri", "Ödeme", "Sipariş Özeti"];
 function getStepContent(step: number) {
