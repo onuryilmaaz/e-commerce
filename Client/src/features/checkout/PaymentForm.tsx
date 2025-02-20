@@ -58,8 +58,8 @@ export default function PaymentFrom() {
       </Grid2>
       <Grid2 size={{ xs: 12, md: 4 }}>
         <TextField
-          {...register("cardcvv", { required: "Cvv is required" })}
-          label="Enter Cvv"
+          {...register("cardcvc", { required: "Cvc is required" })}
+          label="Enter Cvc"
           fullWidth
           autoFocus
           size="small"

@@ -89,3 +89,9 @@ app.MapControllers();
 SeedDatabase.Initialize(app);
 
 app.Run();
+
+
+// "PaymentAPI": {
+//     "APIKey": "sandbox-eJ7QkEEVg8x5ZIyJte4OHXaHdiSFAOk6",
+//     "SecretKey": "sandbox-WuMDEP3f3tJlKtARqczd7GR2qH6IgusM"
+//   }

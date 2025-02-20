@@ -133,7 +133,7 @@ namespace API.Controllers
             paymentCard.CardNumber = model.CardNumber;
             paymentCard.ExpireMonth = model.CardExpireMonth;
             paymentCard.ExpireYear = model.CardExpireYear;
-            paymentCard.Cvc = model.CardCvc;
+            paymentCard.Cvc = model.CardCvc;    
             paymentCard.RegisterCard = 0;
             request.PaymentCard = paymentCard;
 
